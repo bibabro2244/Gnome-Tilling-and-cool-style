@@ -18,10 +18,10 @@ Gnome rice, based on tilling manager extension🌆💜
 
 <h1>Programs used</h1>
 
-<p>- Fastfetch(https://github.com/fastfetch-cli/fastfetch)</p>
-<p>- Kitty(https://github.com/kovidgoyal/kitty)</p>
-<p>- Cmatrix(https://github.com/abishekvashok/cmatrix)</p>
-<p>- Cowsay(https://github.com/piuccio/cowsay)</p>
+<p>Fastfetch(https://github.com/fastfetch-cli/fastfetch)</p>
+<p>Kitty(https://github.com/kovidgoyal/kitty)</p>
+<p>Cmatrix(https://github.com/abishekvashok/cmatrix)</p>
+<p>Cowsay(https://github.com/piuccio/cowsay)</p>
 
 <h1>Wallpaper</h1>
 
