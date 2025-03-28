@@ -1,0 +1,25 @@
+[/]
+enable-autotiling=false
+enable-blur-selected-tilepreview=false
+enable-blur-snap-assistant=false
+enable-smart-window-border-radius=false
+enable-tiling-system-windows-suggestions=false
+enable-window-border=true
+focus-window-next=['']
+focus-window-prev=['']
+inner-gaps=uint32 26
+move-window-center=['']
+move-window-down=['<Control>s']
+move-window-left=['<Super>a']
+move-window-right=['<Super>d']
+move-window-up=['<Super>w']
+outer-gaps=uint32 21
+override-window-menu=true
+quarter-tiling-threshold=uint32 22
+resize-complementing-windows=false
+restore-window-original-size=false
+selected-layouts=[['2462607'], ['2462607'], ['2462607']]
+snap-assistant-threshold=56
+untile-window=['']
+window-border-color='rgb(180,167,214)'
+window-border-width=uint32 3
