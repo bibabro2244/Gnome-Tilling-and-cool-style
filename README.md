@@ -7,6 +7,8 @@ Gnome rice, based on tilling manager extension🌆💜
 
 ![Image alt](.photos/photo_2025-07-10_19-39-26.jpg)
 
+![Image alt](.photos/photo_2025-07-10_19-39-32.jpg)
+
 <h1>Extensions</h1>
 
 <p>- Blur my shell</p>
