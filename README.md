@@ -5,6 +5,8 @@ Gnome rice, based on tilling manager extension🌆💜
 
 ![Image alt](https://github.com/bibabro2244/Gnome-Tilling-and-cool-style/blob/main/.photos/photo2.png)
 
+![Image alt](.photos/photo_2025-07-10_19-39-26.jpg)
+
 <h1>Extensions</h1>
 
 <p>- Blur my shell</p>
